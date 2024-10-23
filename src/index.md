@@ -1,77 +1,39 @@
 ---
 title: Template homepage
-author: Templato Urnehm
-shortbio: PhD student in 👽 science
-description-meta: PhD student in 👽 science
+author: Danaël CARBONNEAU
+shortbio: Master 2 of Computer Science at Sorbonne University
+description-meta: 
 og-url: https://basicpage.github.io
 location: Some lab, office 777
-email: noreply@noemail.com
+email: danael.carbonneau@protonmail.com
 picture: img/profile.png
 picture-round: false
 og-picture: https://basicpage.github.io/img/profile.png
 github: basicpage
 orcid: 0000-0000-0000-0000
-dblp: https://dblp.org/
-scholar: https://scholar.google.com/
-hal: https://hal.science/
-mastodon: https://lipn.info
-github: basicpage
+github: DanaelCarbonneau
 gitlab: gitlab.com
-bluesky: https://bsky.app/
 ---
 
-I am a (fake) PhD student, working on 👽 science on all kinds of related topics.
+I am a Master 2 student in Computer Science at Sorbonne University.
 
-My workflow is usually to use <kbd>Ctrl</kbd> + <kbd>C</kbd> /
-<kbd>Ctrl</kbd> + <kbd>V</kbd>. 🫣
 
-> [!NOTE]
-> This website is obviously a fake one, but it's meant to be very easy to use.
-> Just follow the README of the
-> [Github repository](https://github.com/basicpage/basicpage.github.io).
-
-# Publications
-
-## Conference papers
-
-### Towards automatic academic pages 2
-
-Templato, U. N. Owen, Wan Morotter
-
-*Journal of Awesomeness (JAW), 2024*
-
-<br>
-
-### Towards automatic academic pages
-
-Templato, U. N. Owen
-
-*Journal of Awesomeness (JAW), 2023*
-
-## Journal papers
-
-### How to tame your wagon
-
-Templato
-
-*Journal of Automatic Rejection (JAR), 2022*
-
-## Drafts
-
-None ☠️
 
 # Education
 
-- I was able to paint with my hands in kindergarten.
-- I went to high school where I studied stuff.
-- Master degree in hand painting.
+- 2017 - 2020 : Lycée les Haberges (Vesoul, France), High School diploma.
+- 2019 - 2020 : Ligue de Voile de Bourgogne Franche Comté, Sailing Instructor CQP
+- 2020 - 2023 : Sorbonne Université (Paris, France), Double Degree Computer Science - Philosophy
+- 2023 - today : Sorbonne Université (Paris, France), Master Informatique, parcours Science et Technologies du Logiciel
 
-# Teaching
+# Past Internships
 
-- I am teaching the TD sessions on the 👽 science course.
+- summer 2023, LIP6/IRILL : Open-source toolchain for OCaml towards FPGA, under the supervision of Pr. Emmanuel CHAILLOUX
+- summer 2024, IRILL/IRCAM : Possible links between musical form and dependent type theory, under the supervision of Pr. Carlos AGON
+
 
 # Community service
 
-- 32 reviews for Journal of Awesomeness.
-- 1 review for a cool conference.
-- PC member of the journal of my school.
+- ALIAS (Association Ludique et InformAtique de Sorbonne université), vice-secretary (2023-2024)
+- Bicursiosité (Association des doubles cursus et majeures-mineures en sciences et humanités de Sorbonne Université), secretary, head of the website team (2021 - today)
+- CNHSV (Club Nautique Haut-Saonois Vesoul) : volonteer, federal umpire, sailing instructor (2015 - 2022)
