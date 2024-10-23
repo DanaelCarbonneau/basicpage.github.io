@@ -9,7 +9,7 @@ picture: img/DSCF5779-carre.JPG
 picture-round: false
 og-picture: https://basicpage.github.io/img/profile.png
 github: DanaelCarbonneau
-gitlab: [gitlab.com](https://gitlab.com/DanaelCarbonneau)
+gitlab: DanaelCarbonneau
 ---
 Je actuellement étudiant en Master 2 Informatique parcours Science et Technologies du Logiciel à Sorbonne Université.
 
