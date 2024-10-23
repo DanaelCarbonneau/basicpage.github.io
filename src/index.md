@@ -4,7 +4,6 @@ author: Danaël CARBONNEAU
 shortbio: M2 STL
 description-meta: 
 og-url: https://basicpage.github.io
-location: Some lab, office 777
 email: danael.carbonneau@protonmail.com
 picture: img/profile.png
 picture-round: false
