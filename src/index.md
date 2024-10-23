@@ -5,7 +5,7 @@ shortbio: M2 STL
 description-meta: 
 og-url: https://basicpage.github.io
 email: danael.carbonneau@protonmail.com
-picture: img/profile.png
+picture: img/DSCF5779-carre.JPG
 picture-round: false
 og-picture: https://basicpage.github.io/img/profile.png
 github: basicpage
