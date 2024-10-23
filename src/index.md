@@ -8,12 +8,10 @@ email: danael.carbonneau@protonmail.com
 picture: img/DSCF5779-carre.JPG
 picture-round: false
 og-picture: https://basicpage.github.io/img/profile.png
-github: basicpage
-orcid: 0000-0000-0000-0000
 github: DanaelCarbonneau
-gitlab: gitlab.com
+gitlab: [gitlab.com](https://gitlab.com/DanaelCarbonneau)
 ---
-Je actuellement étudiant en Master 2 Informatique parcours Science et Technologies du Logiciel à Sorbonne Université
+Je actuellement étudiant en Master 2 Informatique parcours Science et Technologies du Logiciel à Sorbonne Université.
 
 
 
