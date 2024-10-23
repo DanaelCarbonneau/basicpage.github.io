@@ -26,8 +26,8 @@ Je actuellement étudiant en Master 2 Informatique parcours Science et Technolog
 
 # Expériences professionnelles
 
-- été 2023, LIP6/IRILL : Chaine de compilation libre OCaml vers FPGA, encadrement parEmmanuel CHAILLOUX
-- summer 2024, IRILL/IRCAM : Forme musicale et théorie des types, encadrement par Carlos AGON
+- Été 2023, LIP6/IRILL : Chaine de compilation libre OCaml vers FPGA, encadrement parEmmanuel CHAILLOUX
+- Été 2024, IRILL/IRCAM : Forme musicale et théorie des types, encadrement par Carlos AGON
 
 
 # Expériences associatives
